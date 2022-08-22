@@ -1,21 +1,28 @@
 
 
 ## Computer Science & Music Producing
-
-
-Since we start to using laptop make music, I realize some knowladge should be aquired before you make music.
-Here is my experiance for gain the workflow for music producing purpose. You can ofcause also my your own version of it.
+电脑科学与音乐制作
 
 
 
+I really want to use English as my default language, but I am not a native speaker.
+In this project, I may talking a lot about my views. 
+For making clear of my opinion, I rather to use my native language to describe it.
+Anyone will be more than welcome if you'd like to help me to translate.
 
-## Main Idea
+在描述个人观点的时候,为了避免误解,相对复杂的逻辑,我会用我的母语来表达.在描述客观事实和名词的时候,我会尽可能用英文.
 
 
-# DAW 
-
-For producing, you can have a bunch choose of software, but you can not exscape to using some "Indastry Standard".  Therefore, I will explain why you have to learn this software.
+## Structure ---- 内容框架
 
 
-*
-*
+
+
+
+## Core ---- 核心内容
+
+1	Editor learning ---- neoVIM
+2	Industry Standard ---- Pro Tools
+3	Making backup ---- git
+4	Write scrip ---- shell
+5	Boost Install ---- InstallPKG/UninstallPKG
